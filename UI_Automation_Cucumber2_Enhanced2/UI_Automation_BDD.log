@@ -1,0 +1,311 @@
+2024-06-23 16:09:31.503 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:24)] - Execution Started
+2024-06-23 16:09:31.506 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:27)] - Instantiating the CommonUtils and Loading the Properties File
+2024-06-23 16:09:31.509 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:29)] - Checking the driver is null or not
+2024-06-23 16:09:31.510 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:31)] - Driver is null.Instantiating it!
+2024-06-23 16:09:32.058 INFO [main] [com.sound.webdriver_manager.DriverManager.launchbrowser(DriverManager.java:25)] - Launching chrome
+2024-06-23 16:09:49.354 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_clicks_on_the_make_appointment_button(Verify_Appointment_Booking_Step_Def.java:40)] - the user clicks on the make appointment option
+2024-06-23 16:09:50.962 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_login_using_the_username_and_password(Verify_Appointment_Booking_Step_Def.java:57)] - the user is logged in successfully
+2024-06-23 16:09:51.470 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_the_facility_as_from_the_dropdown_using(Verify_Appointment_Booking_Step_Def.java:70)] - the user selects the facility dropdown
+2024-06-23 16:09:51.556 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_checks_the_checkbox_of_readmission(Verify_Appointment_Booking_Step_Def.java:83)] - the user checks the checkbox of readmission
+2024-06-23 16:09:51.634 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_radiobutton_of_medicaid_healthcare_program(Verify_Appointment_Booking_Step_Def.java:95)] - the user selects radiobutton of Medicaid Healthcare program
+2024-06-23 16:09:51.960 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_the_tenth_date_of_next_month(Verify_Appointment_Booking_Step_Def.java:109)] - the user selects the Tenth date of next month
+2024-06-23 16:09:52.382 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_adds_necesssary_comments_as(Verify_Appointment_Booking_Step_Def.java:121)] - the user adds necesssary comments as For knee pain
+2024-06-23 16:09:52.943 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_clicks_on_book_appointment_button(Verify_Appointment_Booking_Step_Def.java:133)] - the user clicks on book appointment button
+2024-06-23 16:09:53.357 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_title_as(Verify_Appointment_Booking_Step_Def.java:147)] - Expected Title is displayed
+2024-06-23 16:09:53.393 ERROR [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_facility_as(Verify_Appointment_Booking_Step_Def.java:165)] - Expected Facility is not displayed
+2024-06-23 16:09:53.619 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_readmission_status_as(Verify_Appointment_Booking_Step_Def.java:176)] - Expected Readmission status is displayed
+2024-06-23 16:09:53.662 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_program_as(Verify_Appointment_Booking_Step_Def.java:191)] - Expected Program is displayed
+2024-06-23 16:09:53.695 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_date_as(Verify_Appointment_Booking_Step_Def.java:204)] - Expected Date is displayed
+2024-06-23 16:09:53.755 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_comment_as(Verify_Appointment_Booking_Step_Def.java:219)] - Expected comment is displayed
+2024-06-23 16:11:16.837 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:24)] - Execution Started
+2024-06-23 16:11:16.840 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:27)] - Instantiating the CommonUtils and Loading the Properties File
+2024-06-23 16:11:16.844 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:29)] - Checking the driver is null or not
+2024-06-23 16:11:16.846 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:31)] - Driver is null.Instantiating it!
+2024-06-23 16:11:17.402 INFO [main] [com.sound.webdriver_manager.DriverManager.launchbrowser(DriverManager.java:25)] - Launching chrome
+2024-06-23 16:11:24.472 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_clicks_on_the_make_appointment_button(Verify_Appointment_Booking_Step_Def.java:40)] - the user clicks on the make appointment option
+2024-06-23 16:11:26.403 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_login_using_the_username_and_password(Verify_Appointment_Booking_Step_Def.java:57)] - the user is logged in successfully
+2024-06-23 16:11:26.884 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_the_facility_as_from_the_dropdown_using(Verify_Appointment_Booking_Step_Def.java:70)] - the user selects the facility dropdown
+2024-06-23 16:11:27.001 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_checks_the_checkbox_of_readmission(Verify_Appointment_Booking_Step_Def.java:83)] - the user checks the checkbox of readmission
+2024-06-23 16:11:27.090 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_radiobutton_of_medicaid_healthcare_program(Verify_Appointment_Booking_Step_Def.java:95)] - the user selects radiobutton of Medicaid Healthcare program
+2024-06-23 16:11:27.572 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_the_tenth_date_of_next_month(Verify_Appointment_Booking_Step_Def.java:109)] - the user selects the Tenth date of next month
+2024-06-23 16:11:27.718 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_adds_necesssary_comments_as(Verify_Appointment_Booking_Step_Def.java:121)] - the user adds necesssary comments as For knee pain
+2024-06-23 16:11:28.713 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_clicks_on_book_appointment_button(Verify_Appointment_Booking_Step_Def.java:133)] - the user clicks on book appointment button
+2024-06-23 16:11:28.928 ERROR [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_facility_as(Verify_Appointment_Booking_Step_Def.java:165)] - Expected Facility is not displayed
+2024-06-23 16:11:29.139 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_readmission_status_as(Verify_Appointment_Booking_Step_Def.java:176)] - Expected Readmission status is displayed
+2024-06-23 16:11:29.439 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_program_as(Verify_Appointment_Booking_Step_Def.java:191)] - Expected Program is displayed
+2024-06-23 16:11:29.484 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_date_as(Verify_Appointment_Booking_Step_Def.java:204)] - Expected Date is displayed
+2024-06-23 16:11:29.529 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_comment_as(Verify_Appointment_Booking_Step_Def.java:219)] - Expected comment is displayed
+2024-06-23 16:40:03.185 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:24)] - Execution Started
+2024-06-23 16:40:03.188 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:27)] - Instantiating the CommonUtils and Loading the Properties File
+2024-06-23 16:40:03.191 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:29)] - Checking the driver is null or not
+2024-06-23 16:40:03.192 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:31)] - Driver is null.Instantiating it!
+2024-06-23 16:40:04.188 INFO [main] [com.sound.webdriver_manager.DriverManager.launchbrowser(DriverManager.java:25)] - Launching chrome
+2024-06-23 16:40:06.250 ERROR [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_is_on_the_homepage(Verify_Appointment_Booking_Step_Def.java:30)] - org.openqa.selenium.WebDriverException: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=126.0.6478.114)
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7bb457abd80a729f71ed8d7965c472df, get {url=https://katalon-demo-cura.herokuapp.com/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 126.0.6478.63 (df799988fdc9..., userDataDir: C:\Users\sound\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52859}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52859/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7bb457abd80a729f71ed8d7965c472df
+2024-06-23 16:40:48.130 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:24)] - Execution Started
+2024-06-23 16:40:48.133 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:27)] - Instantiating the CommonUtils and Loading the Properties File
+2024-06-23 16:40:48.137 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:29)] - Checking the driver is null or not
+2024-06-23 16:40:48.138 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:31)] - Driver is null.Instantiating it!
+2024-06-23 16:40:48.591 INFO [main] [com.sound.webdriver_manager.DriverManager.launchbrowser(DriverManager.java:25)] - Launching chrome
+2024-06-23 16:40:54.189 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_clicks_on_the_make_appointment_button(Verify_Appointment_Booking_Step_Def.java:40)] - the user clicks on the make appointment option
+2024-06-23 16:40:55.238 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_login_using_the_username_and_password(Verify_Appointment_Booking_Step_Def.java:57)] - the user is logged in successfully
+2024-06-23 16:40:55.515 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_the_facility_as_from_the_dropdown_using(Verify_Appointment_Booking_Step_Def.java:70)] - the user selects the facility dropdown
+2024-06-23 16:40:55.573 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_checks_the_checkbox_of_readmission(Verify_Appointment_Booking_Step_Def.java:83)] - the user checks the checkbox of readmission
+2024-06-23 16:40:55.634 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_radiobutton_of_medicaid_healthcare_program(Verify_Appointment_Booking_Step_Def.java:95)] - the user selects radiobutton of Medicaid Healthcare program
+2024-06-23 16:40:55.634 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_the_tenth_date_of_next_month(Verify_Appointment_Booking_Step_Def.java:109)] - the user selects the Tenth date of next month
+2024-06-23 16:40:55.748 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_adds_necesssary_comments_as(Verify_Appointment_Booking_Step_Def.java:121)] - the user adds necesssary comments as For knee pain
+2024-06-23 16:40:55.930 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_clicks_on_book_appointment_button(Verify_Appointment_Booking_Step_Def.java:133)] - the user clicks on book appointment button
+2024-06-23 16:40:55.985 ERROR [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_title_as(Verify_Appointment_Booking_Step_Def.java:150)] - Expected Ttile is not displayed
+2024-06-23 16:41:34.774 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:24)] - Execution Started
+2024-06-23 16:41:34.776 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:27)] - Instantiating the CommonUtils and Loading the Properties File
+2024-06-23 16:41:34.779 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:29)] - Checking the driver is null or not
+2024-06-23 16:41:34.781 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:31)] - Driver is null.Instantiating it!
+2024-06-23 16:41:35.369 INFO [main] [com.sound.webdriver_manager.DriverManager.launchbrowser(DriverManager.java:25)] - Launching chrome
+2024-06-23 16:41:41.588 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_clicks_on_the_make_appointment_button(Verify_Appointment_Booking_Step_Def.java:40)] - the user clicks on the make appointment option
+2024-06-23 16:41:43.125 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_login_using_the_username_and_password(Verify_Appointment_Booking_Step_Def.java:57)] - the user is logged in successfully
+2024-06-23 16:41:43.886 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_the_facility_as_from_the_dropdown_using(Verify_Appointment_Booking_Step_Def.java:70)] - the user selects the facility dropdown
+2024-06-23 16:41:43.980 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_checks_the_checkbox_of_readmission(Verify_Appointment_Booking_Step_Def.java:83)] - the user checks the checkbox of readmission
+2024-06-23 16:41:44.081 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_radiobutton_of_medicaid_healthcare_program(Verify_Appointment_Booking_Step_Def.java:95)] - the user selects radiobutton of Medicaid Healthcare program
+2024-06-23 16:41:44.081 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_the_tenth_date_of_next_month(Verify_Appointment_Booking_Step_Def.java:109)] - the user selects the Tenth date of next month
+2024-06-23 16:41:44.226 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_adds_necesssary_comments_as(Verify_Appointment_Booking_Step_Def.java:121)] - the user adds necesssary comments as For knee pain
+2024-06-23 16:41:44.358 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_clicks_on_book_appointment_button(Verify_Appointment_Booking_Step_Def.java:133)] - the user clicks on book appointment button
+2024-06-23 16:41:44.432 ERROR [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_title_as(Verify_Appointment_Booking_Step_Def.java:150)] - Expected Ttile is not displayed
+2024-06-23 16:46:57.818 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:24)] - Execution Started
+2024-06-23 16:46:57.820 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:27)] - Instantiating the CommonUtils and Loading the Properties File
+2024-06-23 16:46:57.826 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:29)] - Checking the driver is null or not
+2024-06-23 16:46:57.827 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:31)] - Driver is null.Instantiating it!
+2024-06-23 16:46:58.365 INFO [main] [com.sound.webdriver_manager.DriverManager.launchbrowser(DriverManager.java:25)] - Launching chrome
+2024-06-23 16:47:04.230 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_clicks_on_the_make_appointment_button(Verify_Appointment_Booking_Step_Def.java:40)] - the user clicks on the make appointment option
+2024-06-23 16:47:05.782 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_login_using_the_username_and_password(Verify_Appointment_Booking_Step_Def.java:57)] - the user is logged in successfully
+2024-06-23 16:47:06.462 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_the_facility_as_from_the_dropdown_using(Verify_Appointment_Booking_Step_Def.java:70)] - the user selects the facility dropdown
+2024-06-23 16:47:06.582 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_checks_the_checkbox_of_readmission(Verify_Appointment_Booking_Step_Def.java:83)] - the user checks the checkbox of readmission
+2024-06-23 16:47:06.656 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_radiobutton_of_medicaid_healthcare_program(Verify_Appointment_Booking_Step_Def.java:95)] - the user selects radiobutton of Medicaid Healthcare program
+2024-06-23 16:47:06.661 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_the_tenth_date_of_next_month(Verify_Appointment_Booking_Step_Def.java:109)] - the user selects the Tenth date of next month
+2024-06-23 16:47:06.795 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_adds_necesssary_comments_as(Verify_Appointment_Booking_Step_Def.java:121)] - the user adds necesssary comments as For knee pain
+2024-06-23 16:47:06.901 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_clicks_on_book_appointment_button(Verify_Appointment_Booking_Step_Def.java:133)] - the user clicks on book appointment button
+2024-06-23 16:47:06.981 ERROR [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_title_as(Verify_Appointment_Booking_Step_Def.java:150)] - Expected Ttile is not displayed
+2024-06-23 17:33:44.614 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:22)] - Execution Started
+2024-06-23 17:33:44.618 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:25)] - Instantiating the CommonUtils and Loading the Properties File
+2024-06-23 17:33:44.621 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:27)] - Checking the driver is null or not
+2024-06-23 17:33:44.623 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:29)] - Driver is null.Instantiating it!
+2024-06-23 17:33:47.740 INFO [main] [com.sound.webdriver_manager.DriverManager.launchbrowser(DriverManager.java:25)] - Launching chrome
+2024-06-23 17:33:54.416 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_clicks_on_the_make_appointment_button(Verify_Appointment_Booking_Step_Def.java:40)] - the user clicks on the make appointment option
+2024-06-23 17:34:21.698 ERROR [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_the_facility_as_from_the_dropdown_using(Verify_Appointment_Booking_Step_Def.java:72)] - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#combo_facility"}
+  (Session info: chrome=126.0.6478.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9642b5c204a4afdae9e960423389f594, findElement {value=combo_facility, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 126.0.6478.63 (df799988fdc9..., userDataDir: C:\Users\sound\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53165}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53165/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9642b5c204a4afdae9e960423389f594
+2024-06-23 17:34:27.014 ERROR [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_checks_the_checkbox_of_readmission(Verify_Appointment_Booking_Step_Def.java:85)] - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#chk_hospotal_readmission"}
+  (Session info: chrome=126.0.6478.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9642b5c204a4afdae9e960423389f594, findElement {value=chk_hospotal_readmission, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 126.0.6478.63 (df799988fdc9..., userDataDir: C:\Users\sound\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53165}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53165/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9642b5c204a4afdae9e960423389f594
+2024-06-23 17:34:28.892 ERROR [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_radiobutton_of_medicaid_healthcare_program(Verify_Appointment_Booking_Step_Def.java:97)] - org.openqa.selenium.NoSuchElementException: Unable to find element with locator By.id: radio_program_medicaid
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: driver.version: RemoteWebDriver
+2024-06-23 17:35:14.131 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:22)] - Execution Started
+2024-06-23 17:35:14.138 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:25)] - Instantiating the CommonUtils and Loading the Properties File
+2024-06-23 17:35:14.150 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:27)] - Checking the driver is null or not
+2024-06-23 17:35:14.153 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:29)] - Driver is null.Instantiating it!
+2024-06-23 17:35:14.811 INFO [main] [com.sound.webdriver_manager.DriverManager.launchbrowser(DriverManager.java:25)] - Launching chrome
+2024-06-23 17:35:21.108 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_clicks_on_the_make_appointment_button(Verify_Appointment_Booking_Step_Def.java:40)] - the user clicks on the make appointment option
+2024-06-23 17:35:39.525 ERROR [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_login_using_the_username_and_password(Verify_Appointment_Booking_Step_Def.java:59)] - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.114)
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c8261ae267b6e08d7b48bba9ecf7e13a, findElement {using=id, value=txt-password}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 126.0.6478.63 (df799988fdc9..., userDataDir: C:\Users\sound\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53192}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53192/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c8261ae267b6e08d7b48bba9ecf7e13a
+2024-06-23 17:36:12.857 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:22)] - Execution Started
+2024-06-23 17:36:12.861 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:25)] - Instantiating the CommonUtils and Loading the Properties File
+2024-06-23 17:36:12.863 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:27)] - Checking the driver is null or not
+2024-06-23 17:36:12.865 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:29)] - Driver is null.Instantiating it!
+2024-06-23 17:36:13.406 INFO [main] [com.sound.webdriver_manager.DriverManager.launchbrowser(DriverManager.java:25)] - Launching chrome
+2024-06-23 17:36:16.990 ERROR [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_clicks_on_the_make_appointment_button(Verify_Appointment_Booking_Step_Def.java:42)] - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.114)
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9c2386b16646bcd8998dccdcd99d66a7, findElement {value=btn-make-appointment, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 126.0.6478.63 (df799988fdc9..., userDataDir: C:\Users\sound\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53222}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53222/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9c2386b16646bcd8998dccdcd99d66a7
+2024-06-23 17:39:01.467 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:22)] - Execution Started
+2024-06-23 17:39:01.471 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:25)] - Instantiating the CommonUtils and Loading the Properties File
+2024-06-23 17:39:01.475 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:27)] - Checking the driver is null or not
+2024-06-23 17:39:01.476 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:29)] - Driver is null.Instantiating it!
+2024-06-23 17:39:02.083 INFO [main] [com.sound.webdriver_manager.DriverManager.launchbrowser(DriverManager.java:25)] - Launching chrome
+2024-06-23 17:39:08.986 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_clicks_on_the_make_appointment_button(Verify_Appointment_Booking_Step_Def.java:40)] - the user clicks on the make appointment option
+2024-06-23 17:39:36.853 ERROR [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_the_facility_as_from_the_dropdown_using(Verify_Appointment_Booking_Step_Def.java:72)] - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#combo_facility"}
+  (Session info: chrome=126.0.6478.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c593f89187a30092a5746f45ecd348ec, findElement {using=id, value=combo_facility}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 126.0.6478.63 (df799988fdc9..., userDataDir: C:\Users\sound\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53247}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53247/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c593f89187a30092a5746f45ecd348ec
+2024-06-23 17:39:42.144 ERROR [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_checks_the_checkbox_of_readmission(Verify_Appointment_Booking_Step_Def.java:85)] - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#chk_hospotal_readmission"}
+  (Session info: chrome=126.0.6478.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c593f89187a30092a5746f45ecd348ec, findElement {using=id, value=chk_hospotal_readmission}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 126.0.6478.63 (df799988fdc9..., userDataDir: C:\Users\sound\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53247}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53247/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c593f89187a30092a5746f45ecd348ec
+2024-06-23 17:39:47.406 ERROR [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_radiobutton_of_medicaid_healthcare_program(Verify_Appointment_Booking_Step_Def.java:97)] - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#radio_program_medicaid"}
+  (Session info: chrome=126.0.6478.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c593f89187a30092a5746f45ecd348ec, findElement {using=id, value=radio_program_medicaid}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 126.0.6478.63 (df799988fdc9..., userDataDir: C:\Users\sound\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53247}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53247/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c593f89187a30092a5746f45ecd348ec
+2024-06-23 17:39:47.551 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_the_tenth_date_of_next_month(Verify_Appointment_Booking_Step_Def.java:109)] - the user selects the Tenth date of next month
+2024-06-23 17:39:51.637 ERROR [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_adds_necesssary_comments_as(Verify_Appointment_Booking_Step_Def.java:123)] - org.openqa.selenium.NoSuchElementException: Unable to find element with locator By.id: txt_comment
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: driver.version: RemoteWebDriver
+2024-06-23 17:41:37.512 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:22)] - Execution Started
+2024-06-23 17:41:37.515 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:25)] - Instantiating the CommonUtils and Loading the Properties File
+2024-06-23 17:41:37.519 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:27)] - Checking the driver is null or not
+2024-06-23 17:41:37.520 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:29)] - Driver is null.Instantiating it!
+2024-06-23 17:41:39.119 INFO [main] [com.sound.webdriver_manager.DriverManager.launchbrowser(DriverManager.java:25)] - Launching chrome
+2024-06-23 17:41:44.796 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_clicks_on_the_make_appointment_button(Verify_Appointment_Booking_Step_Def.java:40)] - the user clicks on the make appointment option
+2024-06-23 17:41:45.973 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_login_using_the_username_and_password(Verify_Appointment_Booking_Step_Def.java:57)] - the user is logged in successfully
+2024-06-23 17:41:46.368 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_the_facility_as_from_the_dropdown_using(Verify_Appointment_Booking_Step_Def.java:70)] - the user selects the facility dropdown
+2024-06-23 17:41:46.455 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_checks_the_checkbox_of_readmission(Verify_Appointment_Booking_Step_Def.java:83)] - the user checks the checkbox of readmission
+2024-06-23 17:41:46.546 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_radiobutton_of_medicaid_healthcare_program(Verify_Appointment_Booking_Step_Def.java:95)] - the user selects radiobutton of Medicaid Healthcare program
+2024-06-23 17:41:46.546 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_the_tenth_date_of_next_month(Verify_Appointment_Booking_Step_Def.java:109)] - the user selects the Tenth date of next month
+2024-06-23 17:41:46.711 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_adds_necesssary_comments_as(Verify_Appointment_Booking_Step_Def.java:121)] - the user adds necesssary comments as For knee pain
+2024-06-23 17:41:46.849 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_clicks_on_book_appointment_button(Verify_Appointment_Booking_Step_Def.java:133)] - the user clicks on book appointment button
+2024-06-23 17:41:46.905 ERROR [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_title_as(Verify_Appointment_Booking_Step_Def.java:150)] - Expected Ttile is not displayed
+2024-06-23 17:45:16.545 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:22)] - Execution Started
+2024-06-23 17:45:16.550 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:25)] - Instantiating the CommonUtils and Loading the Properties File
+2024-06-23 17:45:16.554 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:27)] - Checking the driver is null or not
+2024-06-23 17:45:16.556 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:29)] - Driver is null.Instantiating it!
+2024-06-23 17:45:17.214 INFO [main] [com.sound.webdriver_manager.DriverManager.launchbrowser(DriverManager.java:25)] - Launching chrome
+2024-06-23 17:45:23.270 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_clicks_on_the_make_appointment_button(Verify_Appointment_Booking_Step_Def.java:40)] - the user clicks on the make appointment option
+2024-06-23 17:45:24.578 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_login_using_the_username_and_password(Verify_Appointment_Booking_Step_Def.java:57)] - the user is logged in successfully
+2024-06-23 17:45:25.173 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_the_facility_as_from_the_dropdown_using(Verify_Appointment_Booking_Step_Def.java:70)] - the user selects the facility dropdown
+2024-06-23 17:45:25.247 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_checks_the_checkbox_of_readmission(Verify_Appointment_Booking_Step_Def.java:83)] - the user checks the checkbox of readmission
+2024-06-23 17:45:25.307 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_radiobutton_of_medicaid_healthcare_program(Verify_Appointment_Booking_Step_Def.java:95)] - the user selects radiobutton of Medicaid Healthcare program
+2024-06-23 17:45:25.610 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_the_tenth_date_of_next_month(Verify_Appointment_Booking_Step_Def.java:109)] - the user selects the Tenth date of next month
+2024-06-23 17:45:25.841 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_adds_necesssary_comments_as(Verify_Appointment_Booking_Step_Def.java:121)] - the user adds necesssary comments as For knee pain
+2024-06-23 17:45:26.617 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_clicks_on_book_appointment_button(Verify_Appointment_Booking_Step_Def.java:133)] - the user clicks on book appointment button
+2024-06-23 17:45:26.831 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_title_as(Verify_Appointment_Booking_Step_Def.java:147)] - Expected Title is displayed
+2024-06-23 17:45:26.873 ERROR [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_facility_as(Verify_Appointment_Booking_Step_Def.java:165)] - Expected Facility is not displayed
+2024-06-23 17:45:27.100 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_readmission_status_as(Verify_Appointment_Booking_Step_Def.java:176)] - Expected Readmission status is displayed
+2024-06-23 17:45:27.139 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_program_as(Verify_Appointment_Booking_Step_Def.java:191)] - Expected Program is displayed
+2024-06-23 17:45:27.175 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_date_as(Verify_Appointment_Booking_Step_Def.java:204)] - Expected Date is displayed
+2024-06-23 17:45:27.207 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_comment_as(Verify_Appointment_Booking_Step_Def.java:219)] - Expected comment is displayed
+2024-06-23 18:27:19.294 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:22)] - Execution Started
+2024-06-23 18:27:19.299 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:25)] - Instantiating the CommonUtils and Loading the Properties File
+2024-06-23 18:27:19.303 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:27)] - Checking the driver is null or not
+2024-06-23 18:27:19.305 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:29)] - Driver is null.Instantiating it!
+2024-06-23 18:27:19.732 INFO [main] [com.sound.webdriver_manager.DriverManager.launchbrowser(DriverManager.java:25)] - Launching chrome
+2024-06-23 18:27:21.292 ERROR [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_is_on_the_homepage(Verify_Appointment_Booking_Step_Def.java:30)] - org.openqa.selenium.WebDriverException: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=126.0.6478.114)
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9eea671a5dda61ebf2ea2ceb47281c41, get {url=https://katalon-demo-cura.herokuapp.com/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.114, chrome: {chromedriverVersion: 126.0.6478.63 (df799988fdc9..., userDataDir: C:\Users\sound\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56997}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56997/devtoo..., se:cdpVersion: 126.0.6478.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9eea671a5dda61ebf2ea2ceb47281c41
+2024-06-23 18:27:55.423 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:22)] - Execution Started
+2024-06-23 18:27:55.425 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:25)] - Instantiating the CommonUtils and Loading the Properties File
+2024-06-23 18:27:55.427 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:27)] - Checking the driver is null or not
+2024-06-23 18:27:55.427 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:29)] - Driver is null.Instantiating it!
+2024-06-23 18:27:55.756 INFO [main] [com.sound.webdriver_manager.DriverManager.launchbrowser(DriverManager.java:25)] - Launching chrome
+2024-06-23 18:28:00.607 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_clicks_on_the_make_appointment_button(Verify_Appointment_Booking_Step_Def.java:40)] - the user clicks on the make appointment option
+2024-06-23 18:28:01.505 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_login_using_the_username_and_password(Verify_Appointment_Booking_Step_Def.java:57)] - the user is logged in successfully
+2024-06-23 18:28:01.685 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_the_facility_as_from_the_dropdown_using(Verify_Appointment_Booking_Step_Def.java:70)] - the user selects the facility dropdown
+2024-06-23 18:28:01.738 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_checks_the_checkbox_of_readmission(Verify_Appointment_Booking_Step_Def.java:83)] - the user checks the checkbox of readmission
+2024-06-23 18:28:01.783 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_radiobutton_of_medicaid_healthcare_program(Verify_Appointment_Booking_Step_Def.java:95)] - the user selects radiobutton of Medicaid Healthcare program
+2024-06-23 18:28:01.948 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_the_tenth_date_of_next_month(Verify_Appointment_Booking_Step_Def.java:109)] - the user selects the Tenth date of next month
+2024-06-23 18:28:02.033 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_adds_necesssary_comments_as(Verify_Appointment_Booking_Step_Def.java:121)] - the user adds necesssary comments as For knee pain
+2024-06-23 18:28:02.442 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_clicks_on_book_appointment_button(Verify_Appointment_Booking_Step_Def.java:133)] - the user clicks on book appointment button
+2024-06-23 18:28:02.537 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_title_as(Verify_Appointment_Booking_Step_Def.java:147)] - Expected Title is displayed
+2024-06-23 18:28:02.571 ERROR [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_facility_as(Verify_Appointment_Booking_Step_Def.java:165)] - Expected Facility is not displayed
+2024-06-23 18:28:02.773 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_readmission_status_as(Verify_Appointment_Booking_Step_Def.java:176)] - Expected Readmission status is displayed
+2024-06-23 18:28:02.798 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_program_as(Verify_Appointment_Booking_Step_Def.java:191)] - Expected Program is displayed
+2024-06-23 18:28:02.820 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_date_as(Verify_Appointment_Booking_Step_Def.java:204)] - Expected Date is displayed
+2024-06-23 18:28:02.847 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_comment_as(Verify_Appointment_Booking_Step_Def.java:219)] - Expected comment is displayed
+2024-06-23 18:30:08.793 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:22)] - Execution Started
+2024-06-23 18:30:08.795 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:25)] - Instantiating the CommonUtils and Loading the Properties File
+2024-06-23 18:30:08.798 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:27)] - Checking the driver is null or not
+2024-06-23 18:30:08.799 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:29)] - Driver is null.Instantiating it!
+2024-06-23 18:30:09.125 INFO [main] [com.sound.webdriver_manager.DriverManager.launchbrowser(DriverManager.java:25)] - Launching chrome
+2024-06-23 18:30:14.468 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_clicks_on_the_make_appointment_button(Verify_Appointment_Booking_Step_Def.java:40)] - the user clicks on the make appointment option
+2024-06-23 18:30:15.890 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_login_using_the_username_and_password(Verify_Appointment_Booking_Step_Def.java:57)] - the user is logged in successfully
+2024-06-23 18:30:16.086 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_the_facility_as_from_the_dropdown_using(Verify_Appointment_Booking_Step_Def.java:70)] - the user selects the facility dropdown
+2024-06-23 18:30:16.148 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_checks_the_checkbox_of_readmission(Verify_Appointment_Booking_Step_Def.java:83)] - the user checks the checkbox of readmission
+2024-06-23 18:30:16.202 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_radiobutton_of_medicaid_healthcare_program(Verify_Appointment_Booking_Step_Def.java:95)] - the user selects radiobutton of Medicaid Healthcare program
+2024-06-23 18:30:16.377 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_the_tenth_date_of_next_month(Verify_Appointment_Booking_Step_Def.java:109)] - the user selects the Tenth date of next month
+2024-06-23 18:30:16.464 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_adds_necesssary_comments_as(Verify_Appointment_Booking_Step_Def.java:121)] - the user adds necesssary comments as For knee pain
+2024-06-23 18:30:16.858 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_clicks_on_book_appointment_button(Verify_Appointment_Booking_Step_Def.java:133)] - the user clicks on book appointment button
+2024-06-23 18:30:16.923 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_title_as(Verify_Appointment_Booking_Step_Def.java:147)] - Expected Title is displayed
+2024-06-23 18:30:16.957 ERROR [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_facility_as(Verify_Appointment_Booking_Step_Def.java:165)] - Expected Facility is not displayed
+2024-06-23 18:30:17.157 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_readmission_status_as(Verify_Appointment_Booking_Step_Def.java:176)] - Expected Readmission status is displayed
+2024-06-23 18:30:17.179 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_program_as(Verify_Appointment_Booking_Step_Def.java:191)] - Expected Program is displayed
+2024-06-23 18:30:17.202 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_date_as(Verify_Appointment_Booking_Step_Def.java:204)] - Expected Date is displayed
+2024-06-23 18:30:17.224 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_comment_as(Verify_Appointment_Booking_Step_Def.java:219)] - Expected comment is displayed
+2024-06-23 19:39:53.916 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:22)] - Execution Started
+2024-06-23 19:39:53.919 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:25)] - Instantiating the CommonUtils and Loading the Properties File
+2024-06-23 19:39:53.921 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:27)] - Checking the driver is null or not
+2024-06-23 19:39:53.922 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:29)] - Driver is null.Instantiating it!
+2024-06-23 19:39:54.224 INFO [main] [com.sound.webdriver_manager.DriverManager.launchbrowser(DriverManager.java:25)] - Launching chrome
+2024-06-23 19:39:59.709 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_clicks_on_the_make_appointment_button(Verify_Appointment_Booking_Step_Def.java:40)] - the user clicks on the make appointment option
+2024-06-23 19:40:01.105 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_login_using_the_username_and_password(Verify_Appointment_Booking_Step_Def.java:57)] - the user is logged in successfully
+2024-06-23 19:40:01.280 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_the_facility_as_from_the_dropdown_using(Verify_Appointment_Booking_Step_Def.java:70)] - the user selects the facility dropdown
+2024-06-23 19:40:01.347 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_checks_the_checkbox_of_readmission(Verify_Appointment_Booking_Step_Def.java:83)] - the user checks the checkbox of readmission
+2024-06-23 19:40:01.405 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_radiobutton_of_medicaid_healthcare_program(Verify_Appointment_Booking_Step_Def.java:95)] - the user selects radiobutton of Medicaid Healthcare program
+2024-06-23 19:40:01.576 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_the_tenth_date_of_next_month(Verify_Appointment_Booking_Step_Def.java:109)] - the user selects the Tenth date of next month
+2024-06-23 19:40:01.660 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_adds_necesssary_comments_as(Verify_Appointment_Booking_Step_Def.java:121)] - the user adds necesssary comments as For knee pain
+2024-06-23 19:40:02.046 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_clicks_on_book_appointment_button(Verify_Appointment_Booking_Step_Def.java:133)] - the user clicks on book appointment button
+2024-06-23 19:40:02.086 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_title_as(Verify_Appointment_Booking_Step_Def.java:147)] - Expected Title is displayed
+2024-06-23 19:40:02.131 ERROR [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_facility_as(Verify_Appointment_Booking_Step_Def.java:165)] - Expected Facility is not displayed
+2024-06-23 19:40:02.288 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_readmission_status_as(Verify_Appointment_Booking_Step_Def.java:176)] - Expected Readmission status is displayed
+2024-06-23 19:40:02.317 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_program_as(Verify_Appointment_Booking_Step_Def.java:191)] - Expected Program is displayed
+2024-06-23 19:40:02.346 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_date_as(Verify_Appointment_Booking_Step_Def.java:204)] - Expected Date is displayed
+2024-06-23 19:40:02.369 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_comment_as(Verify_Appointment_Booking_Step_Def.java:219)] - Expected comment is displayed
+2024-06-23 19:55:05.647 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:22)] - Execution Started
+2024-06-23 19:55:05.649 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:25)] - Instantiating the CommonUtils and Loading the Properties File
+2024-06-23 19:55:05.651 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:27)] - Checking the driver is null or not
+2024-06-23 19:55:05.652 INFO [main] [com.sound.step_defnitions.Common_Step_Defnition.beforeScenario(Common_Step_Defnition.java:29)] - Driver is null.Instantiating it!
+2024-06-23 19:55:06.024 INFO [main] [com.sound.webdriver_manager.DriverManager.launchbrowser(DriverManager.java:25)] - Launching chrome
+2024-06-23 19:55:11.371 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_clicks_on_the_make_appointment_button(Verify_Appointment_Booking_Step_Def.java:40)] - the user clicks on the make appointment option
+2024-06-23 19:55:12.236 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_login_using_the_username_and_password(Verify_Appointment_Booking_Step_Def.java:57)] - the user is logged in successfully
+2024-06-23 19:55:12.420 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_the_facility_as_from_the_dropdown_using(Verify_Appointment_Booking_Step_Def.java:70)] - the user selects the facility dropdown
+2024-06-23 19:55:12.474 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_checks_the_checkbox_of_readmission(Verify_Appointment_Booking_Step_Def.java:83)] - the user checks the checkbox of readmission
+2024-06-23 19:55:12.548 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_radiobutton_of_medicaid_healthcare_program(Verify_Appointment_Booking_Step_Def.java:95)] - the user selects radiobutton of Medicaid Healthcare program
+2024-06-23 19:55:12.729 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_selects_the_tenth_date_of_next_month(Verify_Appointment_Booking_Step_Def.java:109)] - the user selects the Tenth date of next month
+2024-06-23 19:55:12.835 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_adds_necesssary_comments_as(Verify_Appointment_Booking_Step_Def.java:121)] - the user adds necesssary comments as For knee pain
+2024-06-23 19:55:13.175 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_clicks_on_book_appointment_button(Verify_Appointment_Booking_Step_Def.java:133)] - the user clicks on book appointment button
+2024-06-23 19:55:13.257 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_title_as(Verify_Appointment_Booking_Step_Def.java:147)] - Expected Title is displayed
+2024-06-23 19:55:13.287 ERROR [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_facility_as(Verify_Appointment_Booking_Step_Def.java:165)] - Expected Facility is not displayed
+2024-06-23 19:55:13.499 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_readmission_status_as(Verify_Appointment_Booking_Step_Def.java:176)] - Expected Readmission status is displayed
+2024-06-23 19:55:13.530 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_program_as(Verify_Appointment_Booking_Step_Def.java:191)] - Expected Program is displayed
+2024-06-23 19:55:13.565 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_date_as(Verify_Appointment_Booking_Step_Def.java:204)] - Expected Date is displayed
+2024-06-23 19:55:13.593 INFO [main] [com.sound.step_defnitions.Verify_Appointment_Booking_Step_Def.the_user_should_see_the_comment_as(Verify_Appointment_Booking_Step_Def.java:219)] - Expected comment is displayed
